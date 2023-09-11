@@ -45,5 +45,5 @@ Le programme utilise une boucle while pour faire avancer Achille et la Tortue à
 3-La simulation textuelle démontre que la flèche atteint sa cible en suivant le paradoxe de Zénon. Chaque étape de la simulation affiche la position de la flèche par rapport à la cible, montrant comment la flèche se rapproche progressivement de sa destination malgré la division infinie de la distance.
 
 
-
-
+## pygame
+par manque de temps j'ai pas pu faire le pygame
